@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\bin\Debug\net7.0\Lab08Program.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\bin\Debug\net7.0\Lab08Program.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\bin\Debug\net7.0\Lab08Program.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\bin\Debug\net7.0\Lab08Program.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\bin\Debug\net7.0\Lab08Program.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\refint\Lab08Program.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\Lab08Program.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab08-Phils-Lending-Library\Lab08Program\obj\Debug\net7.0\ref\Lab08Program.dll
